@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/std_forward_list.dir/main.cpp.o  -o std_forward_list.exe -Wl,--out-implib,libstd_forward_list.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
