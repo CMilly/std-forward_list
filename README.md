@@ -54,7 +54,6 @@ Implementation of the std::forward_list container that acts as a singly linked l
   # Updates(to be)
   - Initializer list implementation
   - Methods
-  - Time complexity for algorithms
   - Exceptions
   - Syntax (cleaner)
   
